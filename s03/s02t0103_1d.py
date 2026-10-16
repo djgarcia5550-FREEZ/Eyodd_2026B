@@ -18,4 +18,4 @@ print_array(my_array)
 
 print("---simulando un append con insert---")
 my_array.insert(len(my_array), 600)
-print_array(my_array
+print_array(my_array_
